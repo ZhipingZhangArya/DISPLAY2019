@@ -1,0 +1,2 @@
+Before running the Arduino code, please ensure you have installed all the packages. 
+Or please put the 'Dht11' file into your computer's Aduino library file.
